@@ -1,7 +1,7 @@
 # Besti-blog - site de microblogging dédié aux animaux
 
 Le projet consiste à développer une plateforme de *micro-blogging* de photos, type Instagram. 
-Less utilisateurs peuvent :
+Les utilisateurs peuvent :
 - créer des posts associant une image et un texte,
 - les retrouver regroupés au sein d’une page personnelle,
 - voir les posts des autres membres.
